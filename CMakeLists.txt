@@ -1,4 +1,4 @@
-# Copyright (C) Chris Morrison <gnosticist@protonmail.com>
+# Copyright (C) 2021 Chris Morrison <gnosticist@protonmail.com>
 # This file is subject to the license terms in the LICENSE file
 # found in the top-level directory of this distribution.
 
